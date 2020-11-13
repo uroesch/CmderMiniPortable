@@ -1,26 +1,24 @@
-[![Build]({{ AppProjectUrl }}/workflows/build-package/badge.svg)]({{ AppProjectUrl }}/actions?query=workflow%3Abuild-package)
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/uroesch/PlinkProxyPortable?include_prereleases)]({{ AppProjectUrl }}/releases)
+[![Build](https://github.com/uroesch/CmderMiniPortable/workflows/build-package/badge.svg)](https://github.com/uroesch/CmderMiniPortable/actions?query=workflow%3Abuild-package)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/uroesch/PlinkProxyPortable?include_prereleases)](https://github.com/uroesch/CmderMiniPortable/releases)
 [![Runs on](https://img.shields.io/badge/runs%20on-Win64%20%26%20Win32-blue)](#runtime-dependencies)
-![GitHub All Releases](https://img.shields.io/github/downloads/{{ GitHubUser }}/{{ AppName }}/total)
+![GitHub All Releases](https://img.shields.io/github/downloads/uroesch/CmderMiniPortable/total)
 
-# {{ AppNamedSpaced }} for PortableApps.com
+# Cmder Mini for PortableApps.com
 
 <img src="App/AppInfo/appicon_128.png" align=left>
 
-[{{ UpstreamName }}]({{ UpstreamUrl }}) Lorem ipsum dolor sit amet, consetetur
-sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
-magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-dolores et ea rebum.
+[Cmder Mini](https://cmder.net) is a software package created out of pure 
+frustration over absence of usable console emulator on Windows. It is based 
+on ConEmu with major config overhaul, comes with a Monokai color scheme, 
+amazing clink (further enhanced by clink-completions) and a custom prompt layout.
 
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+The main advantage of Cmder is portability. It is designed to be totally 
+self-contained with no external dependencies, which makes it great for USB 
+Sticks or cloud storage. So you can carry your console, aliases and binaries 
+(like wget, curl and git) with you anywhere.
 
 ## Runtime dependencies
-* 32-bit or 64-bit version of Windows Vista or greater.
+* TBD -> 32-bit or 64-bit version of Windows Vista or greater.
 
 ## Support matrix
 
@@ -30,12 +28,12 @@ Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit ame
 | Windows Vista   | ![nd][nd]          | ![nd][nd]           |
 | Windows 7       | ![nd][nd]          | ![nd][nd]           |
 | Windows 8       | ![nd][nd]          | ![nd][nd]           |
-| Windows 10      | ![nd][nd]          | ![nd][nd]           |
+| Windows 10      | ![fs][fs]          | ![fs][fs]           |
 
 Legend: ![ns][ns] not supported;  ![nd][nd] no data; ![ps][ps] supported but not verified; ![fs][fs] verified;`
 
 ## Status
-This PortableApps project is in beta stage.
+This PortableApps project is in alpha stage.
 
 ## Todo
 - [ ] Documentation
