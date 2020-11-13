@@ -18,7 +18,7 @@ Sticks or cloud storage. So you can carry your console, aliases and binaries
 (like wget, curl and git) with you anywhere.
 
 ## Runtime dependencies
-* TBD -> 32-bit or 64-bit version of Windows Vista or greater.
+* 32-bit or 64-bit version of Windows Vista or greater.
 
 ## Support matrix
 
