@@ -26,8 +26,8 @@ Sticks or cloud storage. So you can carry your console, aliases and binaries
 |-----------------|:------------------:|:-------------------:|
 | Windows XP      | ![nd][nd]          | ![nd][nd]           |
 | Windows Vista   | ![nd][nd]          | ![nd][nd]           |
-| Windows 7       | ![nd][nd]          | ![nd][nd]           |
-| Windows 8       | ![nd][nd]          | ![nd][nd]           |
+| Windows 7       | ![fs][fs]          | ![fs][fs]           |
+| Windows 8       | ![ps][ps]          | ![ps][ps]           |
 | Windows 10      | ![fs][fs]          | ![fs][fs]           |
 
 Legend: ![ns][ns] not supported;  ![nd][nd] no data; ![ps][ps] supported but not verified; ![fs][fs] verified;`
