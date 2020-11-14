@@ -1,5 +1,5 @@
 [![Build](https://github.com/uroesch/CmderMiniPortable/workflows/build-package/badge.svg)](https://github.com/uroesch/CmderMiniPortable/actions?query=workflow%3Abuild-package)
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/uroesch/PlinkProxyPortable?include_prereleases)](https://github.com/uroesch/CmderMiniPortable/releases)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/uroesch/CmderMiniPortable?include_prereleases)](https://github.com/uroesch/CmderMiniPortable/releases)
 [![Runs on](https://img.shields.io/badge/runs%20on-Win64%20%26%20Win32-blue)](#runtime-dependencies)
 ![GitHub All Releases](https://img.shields.io/github/downloads/uroesch/CmderMiniPortable/total)
 
