@@ -1,4 +1,5 @@
-[![Build](https://github.com/uroesch/CmderMiniPortable/workflows/build-package/badge.svg)](https://github.com/uroesch/CmderMiniPortable/actions?query=workflow%3Abuild-package)
+[![Build](https://github.com/uroesch/CmderMiniPortable/workflows/build-linux/badge.svg)](https://github.com/uroesch/CmderMiniPortable/actions?query=workflow%3Abuild-linux)
+[![Build](https://github.com/uroesch/CmderMiniPortable/workflows/build-windows/badge.svg)](https://github.com/uroesch/CmderMiniPortable/actions?query=workflow%3Abuild-windows)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/uroesch/CmderMiniPortable?include_prereleases)](https://github.com/uroesch/CmderMiniPortable/releases)
 [![Runs on](https://img.shields.io/badge/runs%20on-Win64%20%26%20Win32-blue)](#runtime-dependencies)
 ![GitHub All Releases](https://img.shields.io/github/downloads/uroesch/CmderMiniPortable/total)
@@ -7,14 +8,14 @@
 
 <img src="App/AppInfo/appicon_128.png" align=left>
 
-[Cmder Mini](https://cmder.net) is a software package created out of pure 
-frustration over absence of usable console emulator on Windows. It is based 
-on ConEmu with major config overhaul, comes with a Monokai color scheme, 
+[Cmder Mini](https://cmder.net) is a software package created out of pure
+frustration over absence of usable console emulator on Windows. It is based
+on ConEmu with major config overhaul, comes with a Monokai color scheme,
 amazing clink (further enhanced by clink-completions) and a custom prompt layout.
 
-The main advantage of Cmder is portability. It is designed to be totally 
-self-contained with no external dependencies, which makes it great for USB 
-Sticks or cloud storage. So you can carry your console, aliases and binaries 
+The main advantage of Cmder is portability. It is designed to be totally
+self-contained with no external dependencies, which makes it great for USB
+Sticks or cloud storage. So you can carry your console, aliases and binaries
 (like wget, curl and git) with you anywhere.
 
 ## Runtime dependencies
